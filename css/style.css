@@ -1,0 +1,56 @@
+table{
+    border: 1px solid black
+}
+tr{
+    border: 1px solid black
+}
+th{
+    border: 1px solid black
+}
+td{
+    border: 1px solid black
+}
+.BM{
+    background-color: grey;
+}
+.AM{
+    background-color: black;
+    color: white
+}
+.BF{
+    background-color: red;
+}
+.AF{
+    background-color: pink;
+    color: black;
+}
+table{
+    width: 100%
+}
+h1{
+    text-align: center;
+}
+
+ul, li{
+    list-style-position: inside;
+}
+
+.male {
+    list-style: none;
+    padding: 10px 30px;
+    background-image: url(../images/Maleicon.png);
+    background-repeat: no-repeat;
+    list-style-position: left center;
+    background-size: 20px;
+
+   
+}
+.female {
+    list-style: none;
+    padding: 10px 30px;
+    background-image: url(../images/femaleicon.png);
+    background-repeat: no-repeat;
+    list-style-position: left center;
+    background-size: 20px;
+   
+}
