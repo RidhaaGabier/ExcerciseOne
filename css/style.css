@@ -54,3 +54,16 @@ ul, li{
     background-size: 20px;
    
 }
+form{
+    box-sizing: border-box;
+    display: block;
+    margin: 16px;
+    padding: 8px;
+    width: 50%;
+    border-radius: 8px;
+    border-width: 8px;
+    border: 2px solid color: blue
+    font-size 25px;
+    text-align:center;
+
+}
